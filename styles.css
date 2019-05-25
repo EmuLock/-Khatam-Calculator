@@ -1,4 +1,15 @@
 #homeSection {
     padding-top: 10% ;
     min-height: 100vh;
+    background-color: teal;
+}
+
+#pages {
+    padding-top: 10% ;
+    min-height: 100vh;
+}
+
+#days {
+    padding-top: 10% ;
+    min-height: 100vh;
 }
