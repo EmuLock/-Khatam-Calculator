@@ -1,6 +1,7 @@
 #homeSection {
     padding-top: 10% ;
     min-height: 100vh;
+    scroll-behavior: smooth;
     /* background-color: teal; */
 }
 
